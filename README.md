@@ -11,7 +11,7 @@ MimeKit
 ```bash
 dotnet add package MimeKit --version 4.3.0
 ```
-MimeKit
+MailKit
 
 ```bash
 dotnet add package MailKit --version 4.3.0
